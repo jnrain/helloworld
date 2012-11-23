@@ -28,4 +28,17 @@
 我自己就不用解释这段代码了～
 
 
+### Han Zhumeng
+
+	Windows
+	2011-20121104SN
+	7
+	6.1.7601
+	AMD64
+	Intel64 Family 6 Model 23 stepping 10, GenuineIntel
+	
+调用模块输出系统环境 各个系统输出不同
+WIN7依次是是操作系统 计算机名称 操作系统版本 版本号 处理器架构 CPUID（家用 类型 样式 级别 Intel商标）
+
+
 <!-- vim:set ai et ts=4 sw=4 sts=4 ff=unix fenc=utf-8 syn=markdown: -->
