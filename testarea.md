@@ -25,6 +25,7 @@
     x86_64
     Intel(R) Core(TM) i7-2670QM CPU @ 2.20GHz
 
+	
 我自己就不用解释这段代码了～
 
 
@@ -39,4 +40,13 @@
 个人感觉是显示出了python当前运行环境的参数，包括系统平台，系统版本，主板架构，处理器参数。
 
 
+### wang dongyan
+    Windows
+    Pulse
+    7
+    6.1.7601
+    AMD64
+    Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+我。。。终于来到这个界面了，撒花，赞成楼上的，补充一点是这个短短的命令还可以看电脑的名字
+哦。既然麻烦了这么就我就小恶劣下凑下字数吧。。
 <!-- vim:set ai et ts=4 sw=4 sts=4 ff=unix fenc=utf-8 syn=markdown: -->
