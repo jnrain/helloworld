@@ -36,6 +36,7 @@
     6.1.7601
     AMD64
     AMD64 Family 18 Model 1 Stepping 0, AuthenticAMD
+
 个人感觉是显示出了python当前运行环境的参数，包括系统平台，系统版本，主板架构，处理器参数。
 
 
