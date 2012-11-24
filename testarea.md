@@ -63,4 +63,16 @@ WIN7依次是是操作系统 计算机名称 操作系统版本 版本号 处理
     解释、、print逐行打印，import引入platform模块，然后调用其中的函式uname打印工作环境的一些信息
 
 
+### Han Zhumeng #2
+
+    Linux
+    ubuntu
+    3.2.0-29-generic-pae
+    #46-Ubuntu SMP Fri Jul 27 17:25:43 UTC 2012
+    i686
+    i686
+
+Ubuntu下的运行结果
+
+
 <!-- vim:set ai et ts=4 sw=4 sts=4 ff=unix fenc=utf-8 syn=markdown: -->
