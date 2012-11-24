@@ -76,4 +76,11 @@ WIN7依次是是操作系统 计算机名称 操作系统版本 版本号 处理
 Ubuntu下的运行结果
 
 
+### Qiu Yingtong
+
+    print('\n'.join(__import__('platform').uname()))
+
+    显示当前运行环境？？
+
+
 <!-- vim:set ai et ts=4 sw=4 sts=4 ff=unix fenc=utf-8 syn=markdown: -->
