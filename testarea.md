@@ -28,4 +28,16 @@
 我自己就不用解释这段代码了～
 
 
+### Han Zhumeng
+
+    Linux
+    ubuntu
+    3.2.0-29-generic-pae
+    #46-Ubuntu SMP Fri Jul 27 17:25:43 UTC 2012
+    i686
+    i686
+
+Ubuntu下的运行结果
+
+
 <!-- vim:set ai et ts=4 sw=4 sts=4 ff=unix fenc=utf-8 syn=markdown: -->
