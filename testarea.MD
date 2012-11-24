@@ -1,4 +1,4 @@
-﻿# 作业要求
+# 作业要求
 
 请在下方以这种格式添加文本。自己写的时候最外边就不要多缩进4格了，不过空行是要有的。我会在下面做第一个示范，各位把自己的答案写在我的答案下面。
 
@@ -28,16 +28,52 @@
 我自己就不用解释这段代码了～
 
 
--### Zhai Qiushi
--
--    Windows
--    ACER-PC
--    7
--    6.1.7601
--    AMD64
--    AMD64 Family 18 Model 1 Stepping 0, AuthenticAMD
--
+### Zhai Qiushi
+
+    Windows
+    ACER-PC
+    7
+    6.1.7601
+    AMD64
+    AMD64 Family 18 Model 1 Stepping 0, AuthenticAMD
+
 个人感觉是显示出了python当前运行环境的参数，包括系统平台，系统版本，主板架构，处理器参数。
--
--
+
+
+### Han Zhumeng
+
+	Windows
+	2011-20121104SN
+	7
+	6.1.7601
+	AMD64
+	Intel64 Family 6 Model 23 stepping 10, GenuineIntel
+	
+调用模块输出系统环境 各个系统输出不同
+WIN7依次是是操作系统 计算机名称 操作系统版本 版本号 处理器架构 CPUID（家用 类型 样式 级别 Intel商标）
+
+
+### Guo linsen
+    Linux
+    sonas-VirtualBox
+    3.2.0-29-generic-pae
+    #46-Ubuntu SMP Fri Jul 27 17:25:43 UTC 2012
+    i686
+    athlon
+    
+    解释、、print逐行打印，import引入platform模块，然后调用其中的函式uname打印工作环境的一些信息
+
+
+### Han Zhumeng #2
+
+    Linux
+    ubuntu
+    3.2.0-29-generic-pae
+    #46-Ubuntu SMP Fri Jul 27 17:25:43 UTC 2012
+    i686
+    i686
+
+Ubuntu下的运行结果
+
+
 <!-- vim:set ai et ts=4 sw=4 sts=4 ff=unix fenc=utf-8 syn=markdown: -->
