@@ -1,4 +1,4 @@
-# This is a Exercise #
+# This is an Exercise #
 Some explains for animations.
 
 - When they cry
