@@ -9,9 +9,9 @@ Some explains for animations.
 
 See more:[When They Cry](http://oyashirosama.com/web/)[Offical Website]
 
-## Hayatenokotoku ##
+## Hayatenokotoku! ##
 
-*hatatenokotoku* is a very **funny** and it is an animation for children(**under 14**).Love is not mature,well,it looks like **Friendship**.Certainly,it doesn't mean that people over 14 couldn't watch this anime.
+*Hatatenokotoku!* is a very **funny** and it is an animation for children( **under 14** ).Love is not mature,well,it looks like **Friendship**.Certainly,it doesn't mean that people over 14 couldn't watch this anime.
 
 See more:[Hayatenokotoku!](http://ani.tv/hayate/)[Anmie 1st offical website]
 
