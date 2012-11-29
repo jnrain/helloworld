@@ -5,7 +5,7 @@ Some explains for animations.
 - Hayatenokotoku
 
 ## When they cry ##
-*When they cry* is a good animation.**Friendship** is what it want to show to us.NOT the murder cases! 
+*When they cry* is a good animation. **Friendship** is what it want to show to us.NOT the murder cases! 
 
 See more:[When They Cry](http://oyashirosama.com/web/)[Offical Website]
 
